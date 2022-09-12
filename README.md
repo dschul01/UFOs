@@ -17,6 +17,7 @@ This image shows how a user may filter down the data by entering criteria within
 ![UFO_Challenge_Filter_DateSelect.png](https://github.com/dschul01/UFOs/blob/main/Resources/UFO_Challenge_Filter_DateSelect.png)
 
 This image is just another illustration the table may be narrowed down even further entering a value within the other searchable fields; city, state, country or shape.
+
 ![UFO_Challenge_Filter_DateStateSelect.png](https://github.com/dschul01/UFOs/blob/main/Resources/UFO_Challenge_Filter_DateStateSelect.png)
 
 ## Summary
