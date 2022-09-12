@@ -11,10 +11,10 @@ The final project is an interactive webpage which allows users to parse UFO sigh
 city, state, country or shape.  The following steps and images walk a user on the process of using the search criteria.
 
 This first image shows the complete table of sightings without any search criteria selected.  This entire default view will provide all sightings collected within our dataset (only a subset is shown here due to size).
-![UFO_Challenge_FIlter.png].(https://github.com/dschul01/UFOs/Resources/UFO_Challenge_FIlter.png)
+![UFO_Challenge_FIlter.png](https://github.com/dschul01/UFOs/blob/main/Resources/UFO_Challenge_FIlter.png)
 
 This image shows how a user may filter down the data by entering criteria within the searchable fields.  The example shows the user entering a data within the 'Enter Date' field.  After pressing the 'Enter' key, the dataset is filtered by the specific criteria.  Similarly, criteria may be entered into the other searchable fields, such as "City", "State", etc.
-![UFO_Challenge_FIlter_DateSelect.png)].(https://github.com/dschul01/UFOs/Resources/UFO_Challenge_FIlter_DateSelect.png)
+![UFO_Challenge_FIlter_DateSelect.png](https://github.com/dschul01/UFOs/blob/main/Resources/UFO_Challenge_FIlter_DateSelect.png)
 
 The user will see criteria in the searchable fields as examples of the syntax to be entered in order to narrow down the results.
 
